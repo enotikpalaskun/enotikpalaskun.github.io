@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Codystar:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Khand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+.bg1{
+    background-image: url('star-wars-battlefront-2-gameplay-j6-1920x1080.jpg');
+    height:900px;
+    background-size: cover;
+    background-position: center;
+}
+body{
+    margin:0;
+}
+.text1{
+    color:white;
+    font-family: 'Codystar', cursive;
+    font-size:22px;
+    margin-left:10px;
+    margin-top:-67px;
+    margin-right:20px;
+    padding-left:76px;
+    width:200px;  
+    border-right:1px dotted;
+}
+.text3{
+    color:white;
+    font-family: 'Codystar', cursive;
+    font-size:22px;
+    margin-left:300px;
+    margin-top:-47px;
+    margin-right:0px;
+    padding-left:0px;
+    width:96px;  
+    border-right:1px dotted;
+}
+.text4{
+    color:white;
+    font-family: 'Codystar', cursive;
+    font-size:22px;
+    margin-left:410px;
+    margin-top:-46px;
+    margin-right:20px;
+    padding-left:2px;
+    padding-right:13px;
+    width:270px;  
+
+}
+.text2{
+    width:1000px;
+    margin-left:200px;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+}
+.text5{
+    color:orange;
+    font-family: 'Khand', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    width:25px;
+    height:42px;
+    padding-right:24px;
+    padding-left:5px;
+    transform: translate(1780px,-65px);
+    font-size:30px;
+    margin-left:0px;
+    border-right:1px solid orange;
+    border-left:1px solid orange;
+    border-bottom:2px solid orange;
+    transition-duration:1s; 
+}
+
+
+.text5:link {
+    border-bottom-style:black;
+}
+.text5:visited {
+    border-bottom-style:black;
+}
+.text5:hover {
+    border-right:2px solid orange;
+    border-left:2px solid orange;
+    border-bottom:3px solid orange;
+}
+.link1{
+    text-decoration: none;
+}
+.text7{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:white;
+    font-size:40px;
+    width:400px;
+    transform:translate(100px,40px);
+    letter-spacing: 2px;
+    text-align: center;
+    
+}
+.text8{
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    transform:translate(100px,80px);
+    font-size:20px;
+}
+.text9{
+    color:white;
+    transform:translate(102px,90px);
+    font-family: 'Roboto Condensed', sans-serif;   
+    font-size:19px;
+}
+.text10{
+    background-color: white;
+    height:550px;
+    width:400px;
+    transform: translate(1200px,-130px);
+    -webkit-box-shadow: 2px 4px 10px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 10px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 10px -2px rgba(0,0,0,0.75);
+}
+.text11{
+    font-size:20px;
+    transform: translate(110px,10px);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.text12{
+    font-size:26px;
+    transform:translate(20px,50px);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    
+}
+.text13{
+    font-size:24px;
+    transform:translate(20px,70px);
+    font-family:sans-serif;
+}
+.text14{
+    font-size:24px;
+    transform:translate(20px,80px);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.text15{
+    transform:translate(30px,150px);
+    border-left:2px solid orange;
+    padding-left:40px;
+    border-right:2px solid orange;
+    padding-right:-10px;
+    width:300px;
+    height:30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:25px;
+    color:orange;
+    transition-duration: 0.2s;
+    padding-bottom:5px;
+    border-top:2px solid orange;
+    border-top-left-radius:10px;
+    border-bottom:2px solid orange;
+    padding-top:5px;
+    transition-duration:0.4s; 
+}
+.text15:hover {
+    border-bottom:3px solid orange;
+}
+.text15:active {
+    border-bottom:3px solid orange;
+}
+.img1{
+    background-image: url('starwars_battlefront_II_logo.jpg');
+    transform: translate(250px,-110px);
+    height:170px;
+    width:130px;
+    background-size: cover;
+    background-position: -80px;
+    background-repeat: no-repeat;
+}
+.text16{
+    transform:translate(30px,24px);
+    border-left:2px solid black;
+    padding-left:40px;
+    border-right:2px solid black;
+    padding-right:-10px;
+    width:300px;
+    height:30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:25px;
+    color:black;
+    transition-duration: 0.2s;
+    padding-bottom:5px;
+     border-top:2px solid black;
+    border-bottom:2px solid black;
+    padding-top:5px;
+    transition-duration:0.4s; 
+}
+.text17{
+    transform:translate(30px,70px);
+    border-left:2px solid black;
+    padding-left:40px;
+    border-right:2px solid black;
+    padding-right:-10px;
+    width:300px;
+    height:30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:25px;
+    color:black;
+    transition-duration: 0.2s;
+    padding-bottom:5px;
+     border-top:2px solid black;
+    border-bottom:2px solid black;
+    padding-top:5px;
+    padding-left:40px;
+    letter-spacing: -1px;
+    transition-duration:0.4s; 
+}
+.text16:hover {
+    border-bottom:3px solid black;
+}
+.text16:active {
+    border-bottom:3px solid black;
+}
+.text17:hover {
+    border-bottom:3px solid black;
+}
+.text17:active {
+    border-bottom:3px solid black;
+}
+.maina{
+    transform:translate(-1090px,-100px);
+    color:white;
+    font-size:24px;
+    width:360px;
+    font-family:sans-serif;
+}
+.a1{
+    border-bottom:1px solid gray;
+    padding-bottom:2px;
+}
+.a2{
+    padding-bottom:2px;
+    padding-top:2px;
+}
+.a3{
+    border-top:1px solid gray;
+    border-bottom:1px solid gray;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+img:hover{
+    
+}
